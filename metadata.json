@@ -1,0 +1,6 @@
+{
+  "name": "FAZZA FOOD - Katering Online & Nasi Box Lezat",
+  "description": "Website pemesanan katering online dan nasi box profesional FAZZA FOOD. Menu lezat, higienis, terjangkau, pesan mudah langsung via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
